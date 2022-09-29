@@ -1,0 +1,4 @@
+#+title: Fly Rails Tools
+#+author: Jacopo Costantini
+
+Simple package to start/stop the rails server and open the Safari page.
